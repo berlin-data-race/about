@@ -91,7 +91,7 @@ Install and sign up for: Goose Chase; MapMyWalk
 
 ### Area covered (feel free to add more locations/points of interest, I’ve started it off!):
 
-	[https://drive.google.com/open?id=1dEd8Zi6_xeV07oe99EzFYaz7g-Y&usp=sharing](https://drive.google.com/open?id=1dEd8Zi6_xeV07oe99EzFYaz7g-Y&usp=sharing)
+[https://drive.google.com/open?id=1dEd8Zi6_xeV07oe99EzFYaz7g-Y&usp=sharing](https://drive.google.com/open?id=1dEd8Zi6_xeV07oe99EzFYaz7g-Y&usp=sharing)
 
 ![image alt text](image_7.png)
 
