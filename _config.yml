@@ -3,3 +3,6 @@ description:
 baseurl: ""
 url: "https://berlin-data-race.github.io/about/"
 markdown: kramdown
+
+kramdown:
+  toc_levels:     2..6

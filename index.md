@@ -2,8 +2,9 @@
 layout: default
 ---
 
-# *#BerlinDataRace*
+# #BerlinDataRace
 
+* TOC
 {:toc}
 
 ## What is it?
@@ -16,19 +17,19 @@ People get involved in the sub-culture of academic conferences through ‘materi
 
 **Conference-long event**: anyone can join in by tweeting using #belindatarace during the previous days of the experimental session. Follow us at @berlindatarace to stay tuned about the missions that will give your team extra points. More information will be available just before the conference.
 
-**Session-specific event**: only open on 7 October, 4-6pm, focused on area around conference venue. Both events count towards the final scores 
+**Session-specific event**: only open on 7 October, 4-6pm, focused on area around conference venue. Both events count towards the final scores
 
-**Winner announced at AGM on 8 October** 
+**Winner announced at AGM on 8 October**
 
 We propose a session in which participants will share their AoiR experiences by forming teams and exploring Berlin through a mobile app.  The idea is to use the ‘GooseChase’[1] app that describes itself as ‘a scavenger hunt for the masses that is suitable for conferences, team building, universities and education.’ We custom design a Berlin GooseChase game that lists up to 100 missions for participants to complete. The main goal is for teams to complete as many missions as possible within the allocated time, typically around 1.5 hours. The missions stem from a mix of Berlin’s historical, architectural, artistic or pop culture themes that have a name, a description and can be a short answer, geo-location check in or a camera phone uploaded photo that attracts a pre-determined point value. By participants tweeting their experiences, taking pictures, uploading videos, using Instagram and geo-locating their missions, their collective aim is to obtain as many points as possible. The more difficult the mission, the higher the point value. The team with the most accumulated points wins the #Berlindatarace.
 
 At the beginning of the session overview, participants download the ‘GooseChase’ app and register under their team’s name and password on their android or IOS mobile device. Participants then select a mission from the list and follow the instructions. Team leaders can track their team’s activity in real-time and view their team’s position on the app’s leader board. In addition to the points automatically awarded when participants complete missions through the app, participants can gain extra bonus points by mapping their route or posting #Berlindatarace Instagram photos or Tweets along the way, always remembering to include the hashtag of their teams for a better tracking of their activities. AoIR participants can increase their overall mission scores by strategically using #Berlindatarace on twitter, Instagram and MapMyWalk.[1]
 
- 
 
-The final (and mandatory) mission takes place at a Berlin café or pub to facilitate networking and social interactions among the participants. Through play we foster different interactions than ‘at work’ and this experimental session can help participants to connect with people that otherwise would be more difficult to do so. 
 
-After completion of the #Berlindatarace game within the set timeframe, facilitators review team missions by analysing each individual team’s collective data. Facilitators report back to the conference cohort with a slideshow of how AoIR participant teams experienced Berlin through their photos, geo visual data and #Berlindatarace twitter and Instagram activity. At the end of the slideshow, facilitators announce the winning team with the most points and award them with the #Berlindatarace prize. 
+The final (and mandatory) mission takes place at a Berlin café or pub to facilitate networking and social interactions among the participants. Through play we foster different interactions than ‘at work’ and this experimental session can help participants to connect with people that otherwise would be more difficult to do so.
+
+After completion of the #Berlindatarace game within the set timeframe, facilitators review team missions by analysing each individual team’s collective data. Facilitators report back to the conference cohort with a slideshow of how AoIR participant teams experienced Berlin through their photos, geo visual data and #Berlindatarace twitter and Instagram activity. At the end of the slideshow, facilitators announce the winning team with the most points and award them with the #Berlindatarace prize.
 
 ## Teams
 
@@ -70,7 +71,7 @@ Install and sign up for: Goose Chase; MapMyWalk
 
 ![image alt text](image_1.png)
 
-3. Details for joining the game will be provided at the start of the session. 
+3. Details for joining the game will be provided at the start of the session.
 
 ![image alt text](image_2.png)
 
@@ -113,4 +114,3 @@ Katherina Drinkuth - k.drinkuth@qut.edu.au
 Pic logo credit: [https://www.flickr.com/photos/72058121@N00/30651841/](https://www.flickr.com/photos/72058121@N00/30651841/)
 
 (we can change it)
-
