@@ -2,88 +2,115 @@
 layout: default
 ---
 
-# How to learn to code
+# *#BerlinDataRace*
 
-*This is going to be a legacy project for [OII SDP 2016](http://sdp.oii.ox.ac.uk). It will contain a step-by-step guide with ressources relevant to scientific programming and data analysis.*
-
-## Table of Contents
-
-1. TOC
 {:toc}
 
-## How to use and contribute to this guide
+## What is it?
 
-This guide is meant to be dead simple to follow and using the best resources we know to be out there. Just work it through line by line and skip steps if you think you are already familiar with them.
+The #Berlindatarace seeks to disrupt how people share their lived experiences within academic conferences by cultivating new and interactive understandings of participant interactions, digital technologies and places.  We propose an innovative engagement session that can enhance and enrich scholars AoIR attendance through a real-time digital application where participants experience the conference host city Berlin, through a hybrid of digital and physical practices. This new engagement with AoIR takes a form of a data scavenger hunt that will not only take participants to iconic and hidden places around Berlin, but at the same time facilitates teamwork and fosters greater networking collaborations amongst AoIR internet researchers.
 
-### Problems following this guide?
+People get involved in the sub-culture of academic conferences through ‘material participation’ (NOTE:  Marres, N. (2012). Material Participation: Technology, the Environment and Everyday Publics. Palgrave Macmillan.)— we produce and share personal media representations of our engagements with issues and events related to AoIR via everyday social media use. Since camera phone photography and mobile apps have become embedded in the flow of everyday life (NOTE:  Pink, S., & Hjorth, L. (2012). Emplaced cartographies: Reconceptualising camera phone practices in an age of locative media. Media International Australia, 145, 145-155), these digital technologies change the way we experience our surroundings. They can be particularly useful for visiting new places, since they help us to create and archive digital memories (NOTE:  Frith, J., & Kalin, J. (2016). Here, I used to be: Mobile media and practices of place-based digital memory. Space and Culture, 19(1), 43-55. ). Route tracking apps can fortify memories of movement through space while check-in apps allow us to pin memories to a specific location. As Internet researchers, participants using mobile technologies can produce shared experiences that can help us to better understand people and places (NOTE:  Pink, S. (2008). An urban tour: The sensory sociality of ethnographic place-making. Ethnography, 9(2), 175-196.) and the interactions among them.
 
-Raise *any* issue you have with this guide, may it be understanding, or technical problems [here](https://github.com/OII-SDP-2016/how-to-learn-to-code/issues). Try to make sure that you search for your issue, before you create a new one. You will need a Github account for this, which is free. You will want to have one later on anyway ;)
+## How does it work?
 
-### I want to help writing!
+**Conference-long event**: anyone can join in by tweeting using #belindatarace during the previous days of the experimental session. Follow us at @berlindatarace to stay tuned about the missions that will give your team extra points. More information will be available just before the conference.
 
-Great! If you want to help us writing, contact one of the [contributors of this repository](https://github.com/OII-SDP-2016/how-to-learn-to-code/graphs/contributors) if you want to become one. Don't be afraid if you're not technically inclined. Helping us to reformulate and correct text is very welcome and easy to do with the approach we're using. It's almost as easy as writing in Word.
+**Session-specific event**: only open on 7 October, 4-6pm, focused on area around conference venue. Both events count towards the final scores 
 
-## Let's start
+**Winner announced at AGM on 8 October** 
 
-### 1. Learning Python
+We propose a session in which participants will share their AoiR experiences by forming teams and exploring Berlin through a mobile app.  The idea is to use the ‘GooseChase’[1] app that describes itself as ‘a scavenger hunt for the masses that is suitable for conferences, team building, universities and education.’ We custom design a Berlin GooseChase game that lists up to 100 missions for participants to complete. The main goal is for teams to complete as many missions as possible within the allocated time, typically around 1.5 hours. The missions stem from a mix of Berlin’s historical, architectural, artistic or pop culture themes that have a name, a description and can be a short answer, geo-location check in or a camera phone uploaded photo that attracts a pre-determined point value. By participants tweeting their experiences, taking pictures, uploading videos, using Instagram and geo-locating their missions, their collective aim is to obtain as many points as possible. The more difficult the mission, the higher the point value. The team with the most accumulated points wins the #Berlindatarace.
 
-[Python](https://python.org) is a easy to learn programming language and quite effective for data analysis, that's why we are starting with Python.
+At the beginning of the session overview, participants download the ‘GooseChase’ app and register under their team’s name and password on their android or IOS mobile device. Participants then select a mission from the list and follow the instructions. Team leaders can track their team’s activity in real-time and view their team’s position on the app’s leader board. In addition to the points automatically awarded when participants complete missions through the app, participants can gain extra bonus points by mapping their route or posting #Berlindatarace Instagram photos or Tweets along the way, always remembering to include the hashtag of their teams for a better tracking of their activities. AoIR participants can increase their overall mission scores by strategically using #Berlindatarace on twitter, Instagram and MapMyWalk.[1]
 
-**Complete the course at [Codecademy](https://www.codecademy.com/tracks/python). If you're lucky, this will take you one rainy weekend. If you're unlucky, the sun will come out. Nobody said it's going to be easy ;)**
+ 
 
-<sup>Codecademy follows a freemium model, so you can pay for additional quizzes and projects during the course. If you want you can do those, but actually we think you don't really need it. The free stuff is enough to give you a good foundation.</sup>
+The final (and mandatory) mission takes place at a Berlin café or pub to facilitate networking and social interactions among the participants. Through play we foster different interactions than ‘at work’ and this experimental session can help participants to connect with people that otherwise would be more difficult to do so. 
 
-### 2. Installing Python on your computer
+After completion of the #Berlindatarace game within the set timeframe, facilitators review team missions by analysing each individual team’s collective data. Facilitators report back to the conference cohort with a slideshow of how AoIR participant teams experienced Berlin through their photos, geo visual data and #Berlindatarace twitter and Instagram activity. At the end of the slideshow, facilitators announce the winning team with the most points and award them with the #Berlindatarace prize. 
 
-* First it is important to get used to the command line [here](https://www.codecademy.com/courses/learn-the-command-line), if you aren't already.
-* Then it is time to install Python. There are tons of ways to do it but one of the easiest is to use [Anaconda](https://www.continuum.io/anaconda) — a package that includes a lot of useful tools for data analysis. Go to their [download page, and choose the Python **3.5** distribution for your operational system](https://www.continuum.io/downloads). For convenience use the graphical installer, if available.
-* Install it using their installer and following their install instructions.
-* Now open a command line application (e.g. the preinstalled Terminal on Mac OS X) and type `which python`. Hit Enter. You should get an output along the lines of this:
+## Teams
 
-```
-$ which python
-/Users/YOURUSERNAME/anaconda/bin/python
-```
+5 **Teams will be allocated at the conference**
 
-* If you enter `python` (hitting Enter will be omitted from now on ;) ) you should see a Python shell as you had it in the Codecademy course.
-* Try things out you've learned in the course.
-* When you're finished hit <kbd>ctrl</kbd> + <kbd>D</kbd>. You will see the command line again.
+## Rules
 
-### 3. Get a good text editor
-A good text editor will make your live much more convenient.
+1. Use the data race hashtag -- #**berlindatarace** -- on Twitter to be eligible for the social media points
 
-There are a lot of pretty ideological discussions about which text editor to use. You don't have to think about this right now. Just use Atom for the moment: [Get it here.](https://atom.io/)
+1. Every conference participant will be allocated randomly to one of five teams at the beginning of the conference. Each of your social media activities using #berlindatarace will count towards your team’s success!
 
-<sup>We consider it a good choice for beginners, because it is possible to extend it's functionality with a great variety of packages, so it's popular with experienced programmers, while it still is easy to configure and intuitively to use. Furthermore it is made by Github, the largest collaboration and version control network out there (more about this later), and therefore integrates very well with it.</sup>
+2. At the session-specific event, you will meet (some of) your fellow team members in person and work as a team for the remainder of the session using the GooseChase app.
 
-### 4. Write your first script
-[...]
+3. At the start of the session, teams will be given their login details for completing the #berlindatarace. Each team will be asked to choose a team champion, who will be responsible for entering your team’s answers. Each team will only use one mobile phone for this.
 
-### 5. Get familiar with Jupyter Notebook
-[...]
+4. You have a limited time to earn as many points as possible - think strategically which challenges to tackle. Also remember, as you only use one account, your team needs to stay together during the session time.
 
-### 6. Learn pandas to work with data in Python
-Pandas is a Python package that makes your life more pleasant when working with data in tables (and also more complicated stuff). Just think about everything you could do in Excel, then add speed, flexibility and control. Yet you already have Pandas installed together with Anaconda — that's great, isn't it?
+5. Each team needs to take and upload a team photo at the beginning and end of the session.
 
-Even though we don't like to offer too many options in this guide we have to provide two here, only because one of them is a paid resource:
+6. Additional points can be earned for tracking your team’s journey during the session with MapMyWalk. You can use a second phone for MapMyWalk.
 
-* [DataCamp](https://www.datacamp.com/) is actually one of the best resources out there. It's also great for learning R (a programming language that's mainly intended to be used for data analysis and statistics). Problem is that what matters for us the intermediate course which is not open for non subscribers. <br>
-You can [try the beginners course for free](https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1), it might be a good revision for you. But **if you are willing to pay $9/month** (you can cancel it any month) for a [student subscription](https://www.datacamp.com/enroll-student) we do recommend their [intermediate course](https://www.datacamp.com/courses/intermediate-python-for-data-science).
-* **If you're not willing to pay** you can jump directly to the Pandas documentation and try their [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html). It will most likely take you more than 10 minutes but it  introduces you to the  basic concepts.
+7. Team points earned during the session will be added to social media points previously earned to determine the winning team. Special points can be earned in certain categories, which will be announced during the conference and at the beginning of the session (i.e. team with the most steps, biggest team at session, etc.).
 
-## What next?
+8. Winners will be announced on Saturday afternoon at the AGM.
 
-Here are a few things you could find useful on your further journey:
+9. Have fun!
 
-### Python Resources
+## Getting ready
 
-* [Python Documentation](https://docs.python.org/3.5/library/multiprocessing.html): Here you can look up every built-in function of Python in detail.
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/): A good thing to read through over time to understand how to become a decent Python programmer.
-* [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html): A great reference to learn Python for general purposes
+Install and sign up for: Goose Chase; MapMyWalk
 
-### Learn TDD
+### Goose Chase:
 
-Test Driven Development, or TDD, is a great approach to development, that will save you hours of debuging.
+1. Download the app  
 
-1. Start with [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
-2. If you want to go deeper in tests, take a look in this early version of [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html) for free
+	![image alt text](image_0.png)
+
+2. You can familiarise yourself with GooseChase by signing up using Facebook or email; however, each team will be given a unique username and password at the start of the session for completing the #berlindatarace.
+
+![image alt text](image_1.png)
+
+3. Details for joining the game will be provided at the start of the session. 
+
+![image alt text](image_2.png)
+
+### Map My Walk
+
+1. Download the app
+
+![image alt text](image_3.png)
+
+2. Join Now - sign up using Facebook or email
+
+![image alt text](image_4.png)![image alt text](image_5.png)
+
+3. Start tracking your movements when the #berlindatarace session begins!
+
+![image alt text](image_6.png)
+
+### Area covered (feel free to add more locations/points of interest, I’ve started it off!):
+
+	[https://drive.google.com/open?id=1dEd8Zi6_xeV07oe99EzFYaz7g-Y&usp=sharing](https://drive.google.com/open?id=1dEd8Zi6_xeV07oe99EzFYaz7g-Y&usp=sharing)
+
+![image alt text](image_7.png)
+
+## Recommendations for the event
+
+Wear: comfortable clothes and shoes
+
+Bring: water to drink, an umbrella, a hat, sunscreen, one mobile* device per team
+
+* Think about data-limits on your device before using it. It may be preferable to use a device belonging to a team-member with a German phone / plan / data-cap.
+
+## Organiser details
+
+Ariadna Matamoros Fernandez––[ariadna.matamorosfernandez@qut.edu.au](mailto:ariadna.matamorosfernandez@qut.edu.au)
+
+Rachel Hews—[rachel.hews@qut.edu.au](mailto:rachel.hews@qut.edu.au)
+
+Katherina Drinkuth - k.drinkuth@qut.edu.au
+
+Pic logo credit: [https://www.flickr.com/photos/72058121@N00/30651841/](https://www.flickr.com/photos/72058121@N00/30651841/)
+
+(we can change it)
+
