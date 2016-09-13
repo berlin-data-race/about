@@ -111,7 +111,7 @@ Ariadna Matamoros Fernandez––[ariadna.matamorosfernandez@qut.edu.au](mailto:
 
 Rachel Hews—[rachel.hews@qut.edu.au](mailto:rachel.hews@qut.edu.au)
 
-Katherina Drinkuth - k.drinkuth@qut.edu.au
+Katherina Drinkuth - [k.drinkuth@qut.edu.au](mailto:k.drinkuth@qut.edu.au)
 
 Pic logo credit: [https://www.flickr.com/photos/72058121@N00/30651841/](https://www.flickr.com/photos/72058121@N00/30651841/)
 
