@@ -63,29 +63,29 @@ Install and sign up for: Goose Chase; MapMyWalk
 
 ### Goose Chase:
 
-1. Download the app  
+Download the app  
 
-	![image alt text](image_0.png)
+![image alt text](image_0.png)
 
-2. You can familiarise yourself with GooseChase by signing up using Facebook or email; however, each team will be given a unique username and password at the start of the session for completing the #berlindatarace.
+You can familiarise yourself with GooseChase by signing up using Facebook or email; however, each team will be given a unique username and password at the start of the session for completing the #berlindatarace.
 
 ![image alt text](image_1.png)
 
-3. Details for joining the game will be provided at the start of the session.
+Details for joining the game will be provided at the start of the session.
 
 ![image alt text](image_2.png)
 
 ### Map My Walk
 
-1. Download the app
+Download the app
 
 ![image alt text](image_3.png)
 
-2. Join Now - sign up using Facebook or email
+Join Now - sign up using Facebook or email
 
 ![image alt text](image_4.png)![image alt text](image_5.png)
 
-3. Start tracking your movements when the #berlindatarace session begins!
+Start tracking your movements when the #berlindatarace session begins!
 
 ![image alt text](image_6.png)
 
