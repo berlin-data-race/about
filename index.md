@@ -93,9 +93,7 @@ Start tracking your movements when the #berlindatarace session begins!
 
 ### Area covered (feel free to add more locations/points of interest, I’ve started it off!):
 
-[https://drive.google.com/open?id=1dEd8Zi6_xeV07oe99EzFYaz7g-Y&usp=sharing](https://drive.google.com/open?id=1dEd8Zi6_xeV07oe99EzFYaz7g-Y&usp=sharing)
-
-![image alt text](image_7.png)
+<iframe src="https://www.google.com/maps/d/embed?mid=1dEd8Zi6_xeV07oe99EzFYaz7g-Y" width="100%" height="480"></iframe>
 
 ## Recommendations for the event
 
