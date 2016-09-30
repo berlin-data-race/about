@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **#Berlin Data Race**
+# **#BerlinDataRace**
 <sub>*tl;dr: Get out there, meet people, have fun!*</sub>
 
 * TOC
