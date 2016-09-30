@@ -32,6 +32,8 @@ Participants will be placed into teams, explore Berlin, and complete missions us
 
 #### The race
 
+![](https://c1.staticflickr.com/1/23/30651841_d8b2a25df7_z.jpg){:align="right" width="35%"}
+
 Participants should download the GooseChase app (and MapMyWalk) to their Android or iOS device; team details will be provided by the #Berlindatarace organisers during the conference. Once signed in to their team account on the app, participants then select missions from the #Berlindatarace list and follow the instructions. Team leaders can track their team’s activity in real-time and view their team’s position on the app’s leaderboard. In addition to the points automatically awarded when participants complete missions through the app, participants can gain extra bonus points by mapping their route and posting #Berlindatarace tweets along the way, always remembering to include their team-specific hashtag.
 
 The #Berlindatarace session itself will finish at the lounge at the **Alexander von Humboldt Institute for Internet and Society (HIIG) **(see [http://aoir.org/aoir2016/conference-venue/](http://aoir.org/aoir2016/conference-venue/)). Each team is required to check in by 6pm at the lounge. Teams can then mingle ahead of the banquet at 7pm (or have time to get ready, as they wish). 
