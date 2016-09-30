@@ -2,104 +2,105 @@
 layout: default
 ---
 
-# [**WORK IN PROGRESS**](https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport)
-
-# **#BerlinDataRace**
+# **#Berlin Data Race**
+<sub>*tl;dr: Get out there, meet people, have fun!*</sub>
 
 * TOC
 {:toc}
 
+## Area covered
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1dEd8Zi6_xeV07oe99EzFYaz7g-Y" width="100%" height="480" style="border:none;"></iframe>
+
 ## What is it?
 
-The #Berlindatarace seeks to disrupt how people share their lived experiences within academic conferences by cultivating new and interactive understandings of participant interactions, digital technologies and places.  We propose an innovative engagement session that can enhance and enrich scholars AoIR attendance through a real-time digital application where participants experience the conference host city Berlin, through a hybrid of digital and physical practices. This new engagement with AoIR takes a form of a data scavenger hunt that will not only take participants to iconic and hidden places around Berlin, but at the same time facilitates teamwork and fosters greater networking collaborations amongst AoIR internet researchers.
-
-People get involved in the sub-culture of academic conferences through ‘material participation’ (NOTE:  Marres, N. (2012). Material Participation: Technology, the Environment and Everyday Publics. Palgrave Macmillan.)— we produce and share personal media representations of our engagements with issues and events related to AoIR via everyday social media use. Since camera phone photography and mobile apps have become embedded in the flow of everyday life (NOTE:  Pink, S., & Hjorth, L. (2012). Emplaced cartographies: Reconceptualising camera phone practices in an age of locative media. Media International Australia, 145, 145-155), these digital technologies change the way we experience our surroundings. They can be particularly useful for visiting new places, since they help us to create and archive digital memories (NOTE:  Frith, J., & Kalin, J. (2016). Here, I used to be: Mobile media and practices of place-based digital memory. Space and Culture, 19(1), 43-55. ). Route tracking apps can fortify memories of movement through space while check-in apps allow us to pin memories to a specific location. As Internet researchers, participants using mobile technologies can produce shared experiences that can help us to better understand people and places (NOTE:  Pink, S. (2008). An urban tour: The sensory sociality of ethnographic place-making. Ethnography, 9(2), 175-196.) and the interactions among them.
+The #Berlindatarace seeks to disrupt how people share their lived experiences within academic conferences by cultivating new and interactive understandings of participant interactions, digital technologies and places.  The data race is an innovative engagement session that can enhance and enrich scholars’ attendance at AoIR through a real-time digital application. Participants experience the conference host city Berlin, through digital and physical practices. This new engagement with AoIR takes the form of a data scavenger hunt that not only takes participants to iconic and hidden places around Berlin, but at the same time facilitates teamwork and fosters greater networking collaborations amongst the AoIR community.
 
 ## How does it work?
 
-**Conference-long event**: anyone can join in by tweeting using #belindatarace during the previous days of the experimental session. Follow us at @berlindatarace to stay tuned about the missions that will give your team extra points. More information will be available just before the conference.
+### Conference-long event
+anyone can join in by tweeting using #Berlindatarace during the first two days of the conference (6-7 October). Follow us at @berlindatarace to stay tuned about the missions that will give your team extra points. Information about teams will be available at the start of the conference.
 
-**Session-specific event**: only open on 7 October, 4-6pm, focused on area around conference venue. Both events count towards the final scores
+### Session-specific event
+only open on 7 October, 4-6pm, focused on the area around the conference venue. Both events count towards the final scores. 
 
-**Winner announced at AGM on 8 October**
+**The winners will be announced at the AoIR AGM: 4pm, 8 October**.
 
-We propose a session in which participants will share their AoiR experiences by forming teams and exploring Berlin through a mobile app.  The idea is to use the ‘GooseChase’[1] app that describes itself as ‘a scavenger hunt for the masses that is suitable for conferences, team building, universities and education.’ We custom design a Berlin GooseChase game that lists up to 100 missions for participants to complete. The main goal is for teams to complete as many missions as possible within the allocated time, typically around 1.5 hours. The missions stem from a mix of Berlin’s historical, architectural, artistic or pop culture themes that have a name, a description and can be a short answer, geo-location check in or a camera phone uploaded photo that attracts a pre-determined point value. By participants tweeting their experiences, taking pictures, uploading videos, using Instagram and geo-locating their missions, their collective aim is to obtain as many points as possible. The more difficult the mission, the higher the point value. The team with the most accumulated points wins the #Berlindatarace.
+#### Format of the experimental session
 
-At the beginning of the session overview, participants download the ‘GooseChase’ app and register under their team’s name and password on their android or IOS mobile device. Participants then select a mission from the list and follow the instructions. Team leaders can track their team’s activity in real-time and view their team’s position on the app’s leader board. In addition to the points automatically awarded when participants complete missions through the app, participants can gain extra bonus points by mapping their route or posting #Berlindatarace Instagram photos or Tweets along the way, always remembering to include the hashtag of their teams for a better tracking of their activities. AoIR participants can increase their overall mission scores by strategically using #Berlindatarace on twitter, Instagram and MapMyWalk.[1]
+Participants will be placed into teams, explore Berlin, and complete missions using the ‘GooseChase’ app, with ‘MapMyWalk’ also used for tracking the team’s journey. The #Berlindatarace GooseChase game contains 100 missions for participants to complete. Teams should complete as many missions as possible during the session (4pm-6pm on Friday 7 October).  The missions feature a mix of Berlin’s history, architecture, art, and pop culture, as well as content that is AoIR specific! Each mission requires participants to either submit a short answer, check in and provide geolocation info, or take and upload a photo or video. For each completed mission, teams will receive a pre-determined point value. By tweeting the team’s experiences, taking pictures, uploading videos, and tracking their movements during the race (using MapMyWalk), each team aims to obtain as many points as possible. The more difficult the mission, the higher the point value. The team with the most accumulated points (including social media points from the first two days of the conference) wins the #Berlindatarace.
 
+#### The race
 
+Participants should download the GooseChase app (and MapMyWalk) to their Android or iOS device; team details will be provided by the #Berlindatarace organisers during the conference. Once signed in to their team account on the app, participants then select missions from the #Berlindatarace list and follow the instructions. Team leaders can track their team’s activity in real-time and view their team’s position on the app’s leaderboard. In addition to the points automatically awarded when participants complete missions through the app, participants can gain extra bonus points by mapping their route and posting #Berlindatarace tweets along the way, always remembering to include their team-specific hashtag.
 
-The final (and mandatory) mission takes place at a Berlin café or pub to facilitate networking and social interactions among the participants. Through play we foster different interactions than ‘at work’ and this experimental session can help participants to connect with people that otherwise would be more difficult to do so.
+The #Berlindatarace session itself will finish at the lounge at the **Alexander von Humboldt Institute for Internet and Society (HIIG) **(see [http://aoir.org/aoir2016/conference-venue/](http://aoir.org/aoir2016/conference-venue/)). Each team is required to check in by 6pm at the lounge. Teams can then mingle ahead of the banquet at 7pm (or have time to get ready, as they wish). 
 
-After completion of the #Berlindatarace game within the set timeframe, facilitators review team missions by analysing each individual team’s collective data. Facilitators report back to the conference cohort with a slideshow of how AoIR participant teams experienced Berlin through their photos, geo visual data and #Berlindatarace twitter and Instagram activity. At the end of the slideshow, facilitators announce the winning team with the most points and award them with the #Berlindatarace prize.
+Following the completion of the #Berlindatarace session, the facilitators will review the submissions and determine the winning team, based on in-session missions and wider conference activity. At the AGM on Saturday afternoon, the organisers will provide a brief summary of the #Berlindatarace before announcing the winning team and awarding their prize! 
 
-## Teams
+### Teams
 
-5 **Teams will be allocated at the conference**
+**Teams will be allocated at the conference -- details to be provided at the event.**
 
-## Rules
+### Rules
 
-1. Use the data race hashtag -- #**berlindatarace** -- on Twitter to be eligible for the social media points
+* Use the data race hashtag -- #**Berlindatarace** -- on Twitter to be eligible for the social media points, as well as your team-specific hashtag (to be revealed at the conference).
 
-1. Every conference participant will be allocated randomly to one of five teams at the beginning of the conference. Each of your social media activities using #berlindatarace will count towards your team’s success!
+* Every conference participant will be allocated to one of five teams at the beginning of the conference. Each of your social media activities using #Berlindatarace will count towards your team’s success!
 
-2. At the session-specific event, you will meet (some of) your fellow team members in person and work as a team for the remainder of the session using the GooseChase app.
+* At the session-specific event, you will meet (some of) your fellow team members in person and work as a team for the remainder of the session using the GooseChase app.
 
-3. At the start of the session, teams will be given their login details for completing the #berlindatarace. Each team will be asked to choose a team champion, who will be responsible for entering your team’s answers. Each team will only use one mobile phone for this.
+* At the start of the session, teams will be given their login details for completing the #Berlindatarace. Each team will be asked to choose a team champion, who will be responsible for entering your team’s answers. Each team will only use one mobile phone for this.
 
-4. You have a limited time to earn as many points as possible - think strategically which challenges to tackle. Also remember, as you only use one account, your team needs to stay together during the session time.
+* You have a limited time to earn as many points as possible - think strategically which challenges to tackle. Also remember, as you only use one account, your team needs to stay together during the session time.
 
-5. Each team needs to take and upload a team photo at the beginning and end of the session.
+* Each team needs to take and upload a team photo at the beginning and end of the session.
 
-6. Additional points can be earned for tracking your team’s journey during the session with MapMyWalk. You can use a second phone for MapMyWalk.
+* Additional points can be earned for tracking your team’s journey during the session with MapMyWalk. You can use a second phone for MapMyWalk.
 
-7. Team points earned during the session will be added to social media points previously earned to determine the winning team. Special points can be earned in certain categories, which will be announced during the conference and at the beginning of the session (i.e. team with the most steps, biggest team at session, etc.).
+* Team points earned during the session will be added to social media points previously earned to determine the winning team. Special points can be earned in certain categories, which will be announced during the conference and at the beginning of the session (i.e. team with the most steps, biggest team at session, etc.).
 
-8. Winners will be announced on Saturday afternoon at the AGM.
+* Winners will be announced on Saturday afternoon at the AGM.
 
-9. Have fun!
+* Have fun!
 
 ## Getting ready
 
 Install and sign up for: Goose Chase; MapMyWalk
 
-### Goose Chase:
+### Goose Chase
 
-Download the app  
+* Download the app  
 
-![image alt text](image_0.png)
+![image alt text](http://i.imgur.com/t8Fz3Fd.png){:width="30%"}
 
-You can familiarise yourself with GooseChase by signing up using Facebook or email; however, each team will be given a unique username and password at the start of the session for completing the #berlindatarace.
+* You can familiarise yourself with GooseChase by signing up using Facebook or email; however, each team will be given a unique username and password at the start of the session for completing the #berlindatarace.
 
-![image alt text](image_1.png)
+![image alt text](http://i.imgur.com/gK3zIBL.png){:width="30%"}
 
-Details for joining the game will be provided at the start of the session.
+* Details for joining the game will be provided at the start of the session. 
 
-![image alt text](image_2.png)
+![image alt text](http://i.imgur.com/dgLSUq6.png){:width="30%"}
 
 ### Map My Walk
 
-Download the app
+* Download the app
 
-![image alt text](image_3.png)
+![image alt text](http://i.imgur.com/yFN4FDG.png){:width="30%"}
 
-Join Now - sign up using Facebook or email
+* Join Now - sign up using Facebook or email
 
-![image alt text](image_4.png)![image alt text](image_5.png)
+![image alt text](http://i.imgur.com/Ri6fjSX.png){:width="30%"}![image alt text](http://i.imgur.com/f8KcouS.png){:width="30%"}
 
-Start tracking your movements when the #berlindatarace session begins!
+* Start tracking your movements when the #berlindatarace session begins!
 
-![image alt text](image_6.png)
-
-### Area covered (feel free to add more locations/points of interest, I’ve started it off!):
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1dEd8Zi6_xeV07oe99EzFYaz7g-Y" width="100%" height="480" style="border:none;"></iframe>
+![image alt text](http://i.imgur.com/Q62KigH.png){:width="30%"}
 
 ## Recommendations for the event
 
-Wear: comfortable clothes and shoes
+* Wear: comfortable clothes and shoes
 
-Bring: water to drink, an umbrella, a hat, sunscreen, one mobile* device per team
+* Bring: water to drink, an umbrella, one mobile* device per team
 
 * Think about data-limits on your device before using it. It may be preferable to use a device belonging to a team-member with a German phone / plan / data-cap.
 
@@ -109,8 +110,11 @@ Ariadna Matamoros Fernandez––[ariadna.matamorosfernandez@qut.edu.au](mailto:
 
 Rachel Hews—[rachel.hews@qut.edu.au](mailto:rachel.hews@qut.edu.au)
 
-Katherina Drinkuth - [k.drinkuth@qut.edu.au](mailto:k.drinkuth@qut.edu.au)
+Katherina Drinkuth - [k.drinkuth@qut.edu.au](mailto:k.drinkuth@qut.edu.au) 
 
-Pic logo credit: [https://www.flickr.com/photos/72058121@N00/30651841/](https://www.flickr.com/photos/72058121@N00/30651841/)
+Tim Highfield - [t.highfield@qut.edu.au](mailto:t.highfield@qut.edu.au)
 
-(we can change it)
+Felix Münch - [felix.muench@qut.edu.au](mailto:felix.muench@qut.edu.au) 
+
+<sub>Pic logo credit: [https://www.flickr.com/photos/72058121@N00/30651841/](https://www.flickr.com/photos/72058121@N00/30651841/)</sub>
+
