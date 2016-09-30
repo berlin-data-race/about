@@ -2,8 +2,11 @@
 layout: default
 ---
 
+
 # **#Berlin Data Race**
 <sub>*tl;dr: Get out there, meet people, have fun!*</sub>
+
+![](https://c1.staticflickr.com/1/23/30651841_d8b2a25df7_z.jpg){:align="right" width="50%"}
 
 * TOC
 {:toc}
