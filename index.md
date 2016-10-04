@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<a href="http://www.qut.edu.au/research/dmrc">![http://www.qut.edu.au/research/dmrc](MASTERLogo_300dpi_cropped.png){:width="35%" align="right"}</a>
+
 # **#BerlinDataRace**
 <sub>*tl;dr: Get out there, meet people, have fun!*</sub>
 
@@ -22,7 +24,7 @@ The #Berlindatarace seeks to disrupt how people share their lived experiences wi
 anyone can join in by tweeting using #Berlindatarace during the first two days of the conference (6-7 October). Follow us at @berlindatarace to stay tuned about the missions that will give your team extra points. Information about teams will be available at the start of the conference.
 
 ### Session-specific event
-only open on 7 October, 4-6pm, focused on the area around the conference venue. Both events count towards the final scores. 
+only open on 7 October, 4-6pm, focused on the area around the conference venue. Both events count towards the final scores.
 
 **The winners will be announced at the AoIR AGM: 4pm, 8 October**.
 
@@ -36,9 +38,9 @@ Participants will be placed into teams, explore Berlin, and complete missions us
 
 Participants should download the GooseChase app (and MapMyWalk) to their Android or iOS device; team details will be provided by the #Berlindatarace organisers during the conference. Once signed in to their team account on the app, participants then select missions from the #Berlindatarace list and follow the instructions. Team leaders can track their team’s activity in real-time and view their team’s position on the app’s leaderboard. In addition to the points automatically awarded when participants complete missions through the app, participants can gain extra bonus points by mapping their route and posting #Berlindatarace tweets along the way, always remembering to include their team-specific hashtag.
 
-The #Berlindatarace session itself will finish at the lounge at the **Alexander von Humboldt Institute for Internet and Society (HIIG) **(see [http://aoir.org/aoir2016/conference-venue/](http://aoir.org/aoir2016/conference-venue/)). Each team is required to check in by 6pm at the lounge. Teams can then mingle ahead of the banquet at 7pm (or have time to get ready, as they wish). 
+The #Berlindatarace session itself will finish at the lounge at the **Alexander von Humboldt Institute for Internet and Society (HIIG) **(see [http://aoir.org/aoir2016/conference-venue/](http://aoir.org/aoir2016/conference-venue/)). Each team is required to check in by 6pm at the lounge. Teams can then mingle ahead of the banquet at 7pm (or have time to get ready, as they wish).
 
-Following the completion of the #Berlindatarace session, the facilitators will review the submissions and determine the winning team, based on in-session missions and wider conference activity. At the AGM on Saturday afternoon, the organisers will provide a brief summary of the #Berlindatarace before announcing the winning team and awarding their prize! 
+Following the completion of the #Berlindatarace session, the facilitators will review the submissions and determine the winning team, based on in-session missions and wider conference activity. At the AGM on Saturday afternoon, the organisers will provide a brief summary of the #Berlindatarace before announcing the winning team and awarding their prize!
 
 ### Teams
 
@@ -80,7 +82,7 @@ Install and sign up for: Goose Chase; MapMyWalk
 
 ![image alt text](http://i.imgur.com/gK3zIBL.png){:width="30%"}
 
-* Details for joining the game will be provided at the start of the session. 
+* Details for joining the game will be provided at the start of the session.
 
 ![image alt text](http://i.imgur.com/dgLSUq6.png){:width="30%"}
 
@@ -112,11 +114,10 @@ Ariadna Matamoros Fernandez––[ariadna.matamorosfernandez@qut.edu.au](mailto:
 
 Rachel Hews—[rachel.hews@qut.edu.au](mailto:rachel.hews@qut.edu.au)
 
-Katherina Drinkuth - [k.drinkuth@qut.edu.au](mailto:k.drinkuth@qut.edu.au) 
+Katherina Drinkuth - [k.drinkuth@qut.edu.au](mailto:k.drinkuth@qut.edu.au)
 
 Tim Highfield - [t.highfield@qut.edu.au](mailto:t.highfield@qut.edu.au)
 
-Felix Münch - [felix.muench@qut.edu.au](mailto:felix.muench@qut.edu.au) 
+Felix Münch - [felix.muench@qut.edu.au](mailto:felix.muench@qut.edu.au)
 
 <sub>Pic logo credit: [https://www.flickr.com/photos/72058121@N00/30651841/](https://www.flickr.com/photos/72058121@N00/30651841/)</sub>
-
